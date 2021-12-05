@@ -5,6 +5,7 @@ The official Tensorflow implementation is [here](https://github.com/google-resea
 This code is only available in FixMatch (RandAugment).
 
 video : https://youtu.be/tnozl4rKpd8
+https://youtu.be/I_s2pnzesbo
 
 ## Results
 
